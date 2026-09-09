@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="metrics" data-pptx-layout-name="数据指标卡页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="metrics-title-bar" x="76.52" y="84.26" width="383.33" height="38.67" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="metrics-card-1" x="96" y="170" width="245" height="380" rx="8" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="metrics-card-2" x="371" y="170" width="245" height="380" rx="8" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="metrics-card-3" x="646" y="170" width="245" height="380" rx="8" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="metrics-card-4" x="921" y="170" width="245" height="380" rx="8" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="metrics-logo" x="1137.8" y="656.86" width="97.23" height="23.61" href="../images/image2.png" preserveAspectRatio="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="metrics-title-slot" data-pptx-placeholder="title" data-pptx-bounds="76.52 84.26 383.33 38.67">
+  <text id="metrics-title-carrier" data-pptx-carrier="true" x="86.12" y="109.59" text-anchor="start" font-size="24" fill="#FFFFFF" font-weight="bold" letter-spacing="4">{{PAGE_TITLE}}</text>
+</g>
+<g id="metrics-1-num-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="116 200 205 60">
+  <text id="metrics-1-num-carrier" data-pptx-carrier="true" x="116" y="245" text-anchor="start" font-size="44" fill="#C00000" font-weight="bold">{{METRIC_1_NUM}}</text>
+</g>
+<g id="metrics-1-title-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="116 270 205 44">
+  <text id="metrics-1-title-carrier" data-pptx-carrier="true" x="116" y="302" text-anchor="start" font-size="18" fill="#000000" font-weight="bold">{{METRIC_1_TITLE}}</text>
+</g>
+<g id="metrics-1-body-slot" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="116 324 205 200">
+  <text id="metrics-1-body-carrier" data-pptx-carrier="true" x="116" y="350" text-anchor="start" font-size="14" fill="#595959">{{METRIC_1_BODY}}</text>
+</g>
+<g id="metrics-2-num-slot" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="391 200 205 60">
+  <text id="metrics-2-num-carrier" data-pptx-carrier="true" x="391" y="245" text-anchor="start" font-size="44" fill="#C00000" font-weight="bold">{{METRIC_2_NUM}}</text>
+</g>
+<g id="metrics-2-title-slot" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="391 270 205 44">
+  <text id="metrics-2-title-carrier" data-pptx-carrier="true" x="391" y="302" text-anchor="start" font-size="18" fill="#000000" font-weight="bold">{{METRIC_2_TITLE}}</text>
+</g>
+<g id="metrics-2-body-slot" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="391 324 205 200">
+  <text id="metrics-2-body-carrier" data-pptx-carrier="true" x="391" y="350" text-anchor="start" font-size="14" fill="#595959">{{METRIC_2_BODY}}</text>
+</g>
+<g id="metrics-3-num-slot" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="666 200 205 60">
+  <text id="metrics-3-num-carrier" data-pptx-carrier="true" x="666" y="245" text-anchor="start" font-size="44" fill="#C00000" font-weight="bold">{{METRIC_3_NUM}}</text>
+</g>
+<g id="metrics-3-title-slot" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="666 270 205 44">
+  <text id="metrics-3-title-carrier" data-pptx-carrier="true" x="666" y="302" text-anchor="start" font-size="18" fill="#000000" font-weight="bold">{{METRIC_3_TITLE}}</text>
+</g>
+<g id="metrics-3-body-slot" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="666 324 205 200">
+  <text id="metrics-3-body-carrier" data-pptx-carrier="true" x="666" y="350" text-anchor="start" font-size="14" fill="#595959">{{METRIC_3_BODY}}</text>
+</g>
+<g id="metrics-4-num-slot" data-pptx-placeholder="body" data-pptx-idx="10" data-pptx-bounds="941 200 205 60">
+  <text id="metrics-4-num-carrier" data-pptx-carrier="true" x="941" y="245" text-anchor="start" font-size="44" fill="#C00000" font-weight="bold">{{METRIC_4_NUM}}</text>
+</g>
+<g id="metrics-4-title-slot" data-pptx-placeholder="body" data-pptx-idx="11" data-pptx-bounds="941 270 205 44">
+  <text id="metrics-4-title-carrier" data-pptx-carrier="true" x="941" y="302" text-anchor="start" font-size="18" fill="#000000" font-weight="bold">{{METRIC_4_TITLE}}</text>
+</g>
+<g id="metrics-4-body-slot" data-pptx-placeholder="body" data-pptx-idx="12" data-pptx-bounds="941 324 205 200">
+  <text id="metrics-4-body-carrier" data-pptx-carrier="true" x="941" y="350" text-anchor="start" font-size="14" fill="#595959">{{METRIC_4_BODY}}</text>
+</g>
+</svg>

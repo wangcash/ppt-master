@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="preface" data-pptx-layout-name="前言页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<defs>
+  <linearGradient id="cardGrad" x1="0.1585" y1="1.0915" x2="0.8415" y2="-0.0915">
+    <stop offset="0.45" stop-color="#FFFFFF"/>
+    <stop offset="1" stop-color="#D9D9D9"/>
+  </linearGradient>
+  <filter id="cardShadow" x="-25%" y="-25%" width="150%" height="150%">
+    <feDropShadow dx="-2.83" dy="2.83" stdDeviation="8" flood-color="#808080" flood-opacity="0.34"/>
+  </filter>
+</defs><rect id="preface-card" x="133.83" y="126.15" width="990" height="487.56" rx="10" fill="url(#cardGrad)" stroke="#D9D9D9" stroke-width="0.67" filter="url(#cardShadow)" data-pptx-layer="layout" data-pptx-editable="false"/>
+<path id="preface-corner" d="M1123.83 532.59 L1123.83 613.7 L1042.72 613.7 Z" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<path id="preface-banner-grey" d="M145.88 125.03 L459.17 125.03 L433.45 97.92 L120.06 97.92 L145.88 125.03 Z" fill="#5F5F5F" data-pptx-layer="layout" data-pptx-editable="false"/>
+<path id="preface-banner-red" d="M433.39 97.92 L120.06 97.92 L120.06 315.48 L344.53 315.48 L433.39 97.92 Z" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<circle id="preface-arrow-circle" cx="1098.83" cy="592.03" r="13.89" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false"/>
+<path id="preface-arrow" d="M1092.83 588.03 L1098.83 595.03 L1104.83 588.03 Z" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="preface-title-slot" data-pptx-placeholder="title" data-pptx-bounds="136.01 131.66 262.08 125.87">
+  <text id="preface-title-carrier" data-pptx-carrier="true" x="145.61" y="218.06" text-anchor="start" font-size="96" fill="#F8F8F8" font-weight="bold">{{PAGE_TITLE}}</text>
+</g>
+<g id="preface-body-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="470 215.21 560 271.33">
+  <text id="preface-body-carrier" data-pptx-carrier="true" x="479.6" y="240.41" text-anchor="start" font-size="24" fill="#0D0D0D">{{CONTENT_AREA}}</text>
+</g>
+</svg>

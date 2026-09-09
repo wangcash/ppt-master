@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="image_text_top" data-pptx-layout-name="图文页-上文下图">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="imagetextt-title-bar" x="76.52" y="84.26" width="383.33" height="38.67" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="imagetextt-logo" x="1137.8" y="656.86" width="97.23" height="23.61" href="../images/image2.png" preserveAspectRatio="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="imagetextt-title-slot" data-pptx-placeholder="title" data-pptx-bounds="76.52 84.26 383.33 38.67">
+  <text id="imagetextt-title-carrier" data-pptx-carrier="true" x="86.12" y="109.59" text-anchor="start" font-size="24" fill="#FFFFFF" font-weight="bold" letter-spacing="4">{{PAGE_TITLE}}</text>
+</g>
+<g id="imagetextt-body-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="96 150 1070 240">
+  <text id="imagetextt-body-carrier" data-pptx-carrier="true" x="106" y="186" text-anchor="start" font-size="21.33" fill="#404040">{{CONTENT_AREA}}</text>
+</g>
+<g id="imagetextt-pic-slot-1" data-pptx-placeholder="picture" data-pptx-idx="2" data-pptx-bounds="96 410 1070 230">
+  <image id="imagetextt-pic-carrier-1" data-pptx-carrier="true" x="96" y="410" width="1070" height="230" href="../images/picture_placeholder.png" preserveAspectRatio="xMidYMid slice"/>
+</g>
+</svg>

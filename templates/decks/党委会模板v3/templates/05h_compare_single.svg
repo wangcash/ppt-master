@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="compare_single" data-pptx-layout-name="修订对比页-单图（左文右图）">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="cmps-title-bar" x="76.52" y="84.26" width="383.33" height="38.67" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="cmps-panel" x="76.52" y="124.37" width="1109.67" height="508.47" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="cmps-box-before" x="96" y="170" width="310" height="440" fill="none" stroke="#C00000" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="cmps-box-after" x="420" y="170" width="310" height="440" fill="none" stroke="#C00000" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="cmps-logo" x="1137.8" y="656.86" width="97.23" height="23.61" href="../images/image2.png" preserveAspectRatio="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="cmps-title-slot" data-pptx-placeholder="title" data-pptx-bounds="76.52 84.26 383.33 38.67">
+  <text id="cmps-title-carrier" data-pptx-carrier="true" x="86.12" y="109.59" text-anchor="start" font-size="24" fill="#FFFFFF" font-weight="bold" letter-spacing="4">{{PAGE_TITLE}}</text>
+</g>
+<g id="cmps-before-title-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="106 190 290 40">
+  <text id="cmps-before-title-carrier" data-pptx-carrier="true" x="106" y="220" text-anchor="start" font-size="18" fill="#C00000" font-weight="bold">{{BEFORE_TITLE}}</text>
+</g>
+<g id="cmps-before-body-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="106 230 290 360">
+  <text id="cmps-before-body-carrier" data-pptx-carrier="true" x="106" y="258" text-anchor="start" font-size="16" fill="#000000">{{BEFORE_BODY}}</text>
+</g>
+<g id="cmps-after-title-slot" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="430 190 290 40">
+  <text id="cmps-after-title-carrier" data-pptx-carrier="true" x="430" y="220" text-anchor="start" font-size="18" fill="#C00000" font-weight="bold">{{AFTER_TITLE}}</text>
+</g>
+<g id="cmps-after-body-slot" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="430 230 290 360">
+  <text id="cmps-after-body-carrier" data-pptx-carrier="true" x="430" y="258" text-anchor="start" font-size="16" fill="#000000">{{AFTER_BODY}}</text>
+</g>
+<g id="cmps-pic-slot-1" data-pptx-placeholder="picture" data-pptx-idx="5" data-pptx-bounds="750 170 434 440">
+  <image id="cmps-pic-carrier-1" data-pptx-carrier="true" x="750" y="170" width="434" height="440" href="../images/picture_placeholder.png" preserveAspectRatio="xMidYMid slice"/>
+</g>
+</svg>

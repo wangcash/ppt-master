@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="emphasis" data-pptx-layout-name="重点强调页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="emphasis-title-bar" x="76.52" y="84.26" width="383.33" height="38.67" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="emphasis-logo" x="1137.8" y="656.86" width="97.23" height="23.61" href="../images/image2.png" preserveAspectRatio="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="emphasis-accent" x="96" y="160" width="8" height="220" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="emphasis-title-slot" data-pptx-placeholder="title" data-pptx-bounds="76.52 84.26 383.33 38.67">
+  <text id="emphasis-title-carrier" data-pptx-carrier="true" x="86.12" y="109.59" text-anchor="start" font-size="24" fill="#FFFFFF" font-weight="bold" letter-spacing="4">{{PAGE_TITLE}}</text>
+</g>
+<g id="emphasis-key-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="124 160 1020 130">
+  <text id="emphasis-key-carrier" data-pptx-carrier="true" x="134" y="235" text-anchor="start" font-size="60" fill="#C00000" font-weight="bold">{{KEY_MESSAGE}}</text>
+</g>
+<g id="emphasis-body-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="124 310 1020 300">
+  <text id="emphasis-body-carrier" data-pptx-carrier="true" x="134" y="355" text-anchor="start" font-size="21.33" fill="#404040">{{CONTENT_AREA}}</text>
+</g>
+</svg>

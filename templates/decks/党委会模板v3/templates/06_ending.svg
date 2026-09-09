@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="ending" data-pptx-layout-name="结束页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="ending-band" x="0" y="158.66" width="1280" height="324.32" fill="#B5261F" data-pptx-layer="layout" data-pptx-editable="false"/>
+<line id="ending-line-1" x1="0" y1="495.33" x2="145.95" y2="495.33" stroke="#2C3637" stroke-width="4.25" fill="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<line id="ending-line-2" x1="148.92" y1="495.33" x2="432.38" y2="495.33" stroke="#808080" stroke-width="4.25" fill="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<text id="ending-text" x="640.03" y="297.46" text-anchor="middle" font-family="方正黑体简体, 微软雅黑, sans-serif" font-size="72" fill="#FFFFFF" font-weight="bold" data-pptx-layer="layout" data-pptx-editable="false">汇报完毕</text>
+</svg>

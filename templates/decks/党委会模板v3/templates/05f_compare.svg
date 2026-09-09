@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="compare" data-pptx-layout-name="修订对比页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="compare-title-bar" x="76.52" y="84.26" width="383.33" height="38.67" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="compare-panel" x="76.52" y="124.37" width="1109.67" height="508.47" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="compare-box-before" x="96" y="170" width="520" height="440" fill="none" stroke="#C00000" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="compare-box-after" x="660" y="170" width="520" height="440" fill="none" stroke="#C00000" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="compare-logo" x="1137.8" y="656.86" width="97.23" height="23.61" href="../images/image2.png" preserveAspectRatio="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="compare-title-slot" data-pptx-placeholder="title" data-pptx-bounds="76.52 84.26 383.33 38.67">
+  <text id="compare-title-carrier" data-pptx-carrier="true" x="86.12" y="109.59" text-anchor="start" font-size="24" fill="#FFFFFF" font-weight="bold" letter-spacing="4">{{PAGE_TITLE}}</text>
+</g>
+<g id="compare-before-title-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="116 190 480 40">
+  <text id="compare-before-title-carrier" data-pptx-carrier="true" x="116" y="220" text-anchor="start" font-size="20" fill="#C00000" font-weight="bold">{{BEFORE_TITLE}}</text>
+</g>
+<g id="compare-before-body-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="116 240 480 350">
+  <text id="compare-before-body-carrier" data-pptx-carrier="true" x="116" y="272" text-anchor="start" font-size="18" fill="#000000">{{BEFORE_BODY}}</text>
+</g>
+<g id="compare-after-title-slot" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="680 190 480 40">
+  <text id="compare-after-title-carrier" data-pptx-carrier="true" x="680" y="220" text-anchor="start" font-size="20" fill="#C00000" font-weight="bold">{{AFTER_TITLE}}</text>
+</g>
+<g id="compare-after-body-slot" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="680 240 480 350">
+  <text id="compare-after-body-carrier" data-pptx-carrier="true" x="680" y="272" text-anchor="start" font-size="18" fill="#000000">{{AFTER_BODY}}</text>
+</g>
+</svg>

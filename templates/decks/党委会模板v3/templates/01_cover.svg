@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="cover" data-pptx-layout-name="封面页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="cover-band" x="0" y="158.66" width="1280" height="324.32" fill="#B5261F" data-pptx-layer="layout" data-pptx-editable="false"/>
+<line id="cover-line-left" x1="343.27" y1="634.67" x2="541.93" y2="634.67" stroke="#C00000" stroke-width="1" fill="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<line id="cover-line-right" x1="737.93" y1="634.67" x2="936.6" y2="634.67" stroke="#C00000" stroke-width="1" fill="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="cover-title-slot" data-pptx-placeholder="title" data-pptx-bounds="193 259.6 899.27 152">
+  <text id="cover-title-carrier" data-pptx-carrier="true" x="642.63" y="314.46" text-anchor="middle" font-family="方正小标宋简体, 微软雅黑, sans-serif" font-size="58.67" fill="#FFFFFF" font-weight="bold">{{TITLE}}</text>
+</g>
+<g id="cover-subtitle-slot" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="538.41 565.83 203.2 94.73">
+  <text id="cover-subtitle-carrier" data-pptx-carrier="true" x="640.01" y="592.62" text-anchor="middle" font-size="21.33" fill="#C00000" font-weight="bold" letter-spacing="7.21">{{SUBTITLE}}<tspan x="640.01" dy="31.995">{{DATE}}</tspan></text>
+</g>
+</svg>
