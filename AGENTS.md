@@ -65,7 +65,8 @@ python3 skills/ppt-master/scripts/icon_sync.py <project_path> <lib/name> [...]  
 python3 skills/ppt-master/scripts/confirm_ui/server.py <project_path> --daemon        # then --wait-only --wait-stage stage1
 python3 skills/ppt-master/scripts/analyze_images.py <project_path>/images
 python3 skills/ppt-master/scripts/image_gen.py --manifest <project_path>/images/image_prompts.json   # in-pipeline AI images, even for 1
-python3 skills/ppt-master/scripts/svg_editor/server.py <project_path> --live --daemon
+# skills/ppt-master/scripts/svg_editor/server.py is DISABLED in this environment (no 127.0.0.1:6060 preview); use the host app's PPT preview panel
+python3 skills/ppt-master/scripts/svg_editor/server.py <project_path> --shutdown                # only to stop a legacy 6060 preview server
 python3 skills/ppt-master/scripts/svg_quality_checker.py <project_path> --canonical-authoring --stage final --json   # Quick adds --quick-generate; --json writes the report the exporter reads, stdout stays the summary
 python3 skills/ppt-master/scripts/pptx_to_svg.py <source.pptx> -o projects/<slug>_<YYYYMMDD> --inheritance-mode both --roundtrip   # Edit Native PPTX
 python3 skills/ppt-master/scripts/svg_to_pptx.py projects/<slug>_<YYYYMMDD> --roundtrip
