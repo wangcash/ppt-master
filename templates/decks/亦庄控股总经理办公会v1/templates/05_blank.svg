@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-master="master-default" data-pptx-master-name="亦庄控股总经理办公会母版" data-pptx-layout="blank" data-pptx-layout-name="默认空白页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="blank-chrome-rule" x="177.57" y="48.2" width="1058.88" height="9.16" fill="#6A3F10" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="blank-chrome-cap" x="1236.45" y="33.56" width="43.13" height="38.45" fill="#6A3F10" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="blank-chrome-logo" x="40.19" y="36.61" width="129.64" height="31.48" preserveAspectRatio="none" href="../images/logo-horizontal.png" data-pptx-layer="layout" data-pptx-editable="false"/>
+<text id="blank-chrome-slogan" x="1065.95" y="42.6" font-family="方正小标宋_GBK, Microsoft YaHei, sans-serif" font-size="19.56" letter-spacing="4" fill="#632523" data-pptx-layer="layout" data-pptx-editable="false">产业新城运营商</text>
+<rect id="blank-panel" x="53.33" y="175.88" width="1171.81" height="483.93" fill="#F2F2F2" fill-opacity="0.67" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="blank-title-mark" x="55.93" y="124.79" width="43.13" height="42.31" fill="#6A3F10" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="blank-title-mark-bar" x="103.25" y="124.79" width="4.8" height="42.31" fill="#6A3F10" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="blank-title-slot" data-pptx-placeholder="title" data-pptx-bounds="117.65 112 1090 58">
+<text id="blank-title-carrier" data-pptx-carrier="true" x="117.65" y="154.03" font-family="黑体, Segoe UI Black, Microsoft YaHei, sans-serif" font-size="35.56" font-weight="bold" fill="#632523">{{PAGE_TITLE}}</text>
+</g>
+<g id="blank-body-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="86.67 213.33 1105.14 413.33">
+<text id="blank-body-carrier" data-pptx-carrier="true" x="100" y="253.33" font-size="28.44" fill="#632523">{{CONTENT_AREA}}</text>
+</g>
+</svg>

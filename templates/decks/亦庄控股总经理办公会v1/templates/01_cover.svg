@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-master="master-default" data-pptx-master-name="亦庄控股总经理办公会母版" data-pptx-layout="cover" data-pptx-layout-name="封面页">
+<defs>
+<linearGradient id="title-sheen" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFFFFF"/>
+<stop offset="0.84" stop-color="#FFFFFF"/>
+<stop offset="1" stop-color="#632523" stop-opacity="0.75"/>
+</linearGradient>
+<filter id="band-shadow" x="-10%" y="-25%" width="130%" height="150%">
+<feDropShadow dx="5.33" dy="0" stdDeviation="3.56" flood-color="#000000" flood-opacity="0.4"/>
+</filter>
+</defs>
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="cover-band" x="0" y="190.83" width="1280" height="268.36" fill="#BF8E2B" filter="url(#band-shadow)" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="cover-block" x="52.17" y="86.33" width="265.28" height="265.28" fill="#6A3F10" fill-opacity="0.86" data-pptx-layer="layout" data-pptx-editable="false"/>
+<path id="cover-hatch" d="M 336.97 505.41 L 380.16 462.23 M 349.07 505.41 L 392.26 462.23 M 361.17 505.41 L 404.36 462.23 M 373.27 505.41 L 416.46 462.23 M 385.37 505.41 L 428.56 462.23 M 397.47 505.41 L 440.66 462.23 M 409.57 505.41 L 452.76 462.23 M 421.67 505.41 L 464.86 462.23 M 433.77 505.41 L 476.96 462.23 M 445.87 505.41 L 489.06 462.23 M 457.97 505.41 L 501.16 462.23 M 470.07 505.41 L 513.26 462.23 M 482.17 505.41 L 525.36 462.23 M 494.27 505.41 L 537.46 462.23 M 506.37 505.41 L 549.56 462.23 M 518.47 505.41 L 561.66 462.23 M 530.57 505.41 L 573.76 462.23 M 542.67 505.41 L 585.86 462.23 M 554.77 505.41 L 597.96 462.23 M 566.87 505.41 L 610.06 462.23 M 578.97 505.41 L 622.16 462.23 M 591.07 505.41 L 634.26 462.23 M 603.17 505.41 L 646.36 462.23 M 615.27 505.41 L 658.46 462.23 M 627.37 505.41 L 670.56 462.23 M 639.47 505.41 L 682.66 462.23 M 651.57 505.41 L 694.76 462.23 M 663.67 505.41 L 706.86 462.23 M 675.77 505.41 L 718.96 462.23 M 687.87 505.41 L 731.06 462.23 M 699.97 505.41 L 743.16 462.23 M 712.07 505.41 L 755.26 462.23 M 724.17 505.41 L 767.36 462.23 M 736.27 505.41 L 779.46 462.23 M 748.37 505.41 L 791.56 462.23 M 760.47 505.41 L 803.66 462.23 M 772.57 505.41 L 815.76 462.23 M 784.67 505.41 L 827.86 462.23 M 796.77 505.41 L 839.96 462.23 M 808.87 505.41 L 852.06 462.23 M 820.97 505.41 L 864.16 462.23 M 833.07 505.41 L 876.26 462.23 M 845.17 505.41 L 888.36 462.23 M 857.27 505.41 L 900.46 462.23 M 869.37 505.41 L 912.56 462.23 M 881.47 505.41 L 924.66 462.23 M 893.57 505.41 L 936.76 462.23 M 905.67 505.41 L 948.86 462.23 M 917.77 505.41 L 960.96 462.23 M 929.87 505.41 L 973.06 462.23 M 941.97 505.41 L 985.16 462.23 M 954.07 505.41 L 997.26 462.23 M 966.17 505.41 L 1009.36 462.23 M 978.27 505.41 L 1021.46 462.23 M 990.37 505.41 L 1033.56 462.23 M 1002.47 505.41 L 1045.66 462.23 M 1014.57 505.41 L 1057.76 462.23 M 1026.67 505.41 L 1069.86 462.23 M 1038.77 505.41 L 1081.96 462.23 M 1050.87 505.41 L 1094.06 462.23 M 1062.97 505.41 L 1106.16 462.23 M 1075.07 505.41 L 1118.26 462.23 M 1087.17 505.41 L 1130.36 462.23 M 1099.27 505.41 L 1142.46 462.23 M 1111.37 505.41 L 1154.56 462.23 M 1123.47 505.41 L 1166.66 462.23 M 1135.57 505.41 L 1178.76 462.23 M 1147.67 505.41 L 1190.86 462.23 M 1159.77 505.41 L 1202.96 462.23 M 1171.87 505.41 L 1215.06 462.23 M 1183.97 505.41 L 1227.16 462.23 M 1196.07 505.41 L 1239.26 462.23 M 1208.17 505.41 L 1251.36 462.23 M 1220.27 505.41 L 1263.46 462.23 M 1232.37 505.41 L 1275.56 462.23" fill="none" stroke="#808080" stroke-width="2.4" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="cover-logo" x="54.36" y="21.49" width="147.25" height="35.76" preserveAspectRatio="none" href="../images/logo-horizontal.png" data-pptx-layer="layout" data-pptx-editable="false"/>
+<text id="cover-slogan" x="1116.48" y="677.65" font-family="方正小标宋_GBK, Microsoft YaHei, sans-serif" font-size="19.56" fill="#632523" data-pptx-layer="layout" data-pptx-editable="false">产业新城运营商</text>
+<text id="cover-site" x="1043.4" y="698.65" font-size="18.67" fill="#632523" data-pptx-layer="layout" data-pptx-editable="false">www.bdagroup.com.cn</text>
+<g id="cover-title-slot" data-pptx-placeholder="title" data-pptx-bounds="408.2 239.01 796.31 163.56">
+<text id="cover-title-carrier" data-pptx-carrier="true" x="806.35" y="299.81" text-anchor="middle" font-family="方正小标宋简体, Microsoft YaHei, sans-serif" font-size="64" fill="url(#title-sheen)">{{TITLE}}</text>
+</g>
+<g id="cover-dept-slot" data-pptx-placeholder="subtitle" data-pptx-bounds="61.81 553.67 560 37.33">
+<text id="cover-dept-carrier" data-pptx-carrier="true" x="74.61" y="581.21" font-family="方正大标宋_GBK, Microsoft YaHei, sans-serif" font-size="24.89" fill="#632523">汇报部门：{{AUTHOR}}</text>
+</g>
+<g id="cover-date-slot" data-pptx-placeholder="date" data-pptx-bounds="61.81 591 560 37.33">
+<text id="cover-date-carrier" data-pptx-carrier="true" x="74.61" y="618.55" font-family="方正大标宋_GBK, Microsoft YaHei, sans-serif" font-size="24.89" fill="#632523">时间日期：{{DATE}}</text>
+</g>
+</svg>

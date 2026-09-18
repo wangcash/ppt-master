@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-master="master-default" data-pptx-master-name="亦庄控股总经理办公会母版" data-pptx-layout="chapter" data-pptx-layout-name="章节页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="chapter-chrome-rule" x="177.57" y="48.2" width="1058.88" height="9.16" fill="#6A3F10" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="chapter-chrome-cap" x="1236.45" y="33.56" width="43.13" height="38.45" fill="#6A3F10" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="chapter-chrome-logo" x="40.19" y="36.61" width="129.64" height="31.48" preserveAspectRatio="none" href="../images/logo-horizontal.png" data-pptx-layer="layout" data-pptx-editable="false"/>
+<text id="chapter-chrome-slogan" x="1065.95" y="42.6" font-family="方正小标宋_GBK, Microsoft YaHei, sans-serif" font-size="19.56" letter-spacing="4" fill="#632523" data-pptx-layer="layout" data-pptx-editable="false">产业新城运营商</text>
+<rect id="chapter-bracket-br-fill" x="1060.09" y="520.93" width="105.83" height="121.35" fill="#BF8E2B" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="chapter-bracket-br-white" x="1031.64" y="531.45" width="122.43" height="111.21" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="chapter-bracket-tl-fill" x="105" y="168.48" width="121.35" height="105.84" fill="#BF8E2B" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="chapter-bracket-tl-white" x="115.51" y="178.77" width="111.21" height="100.59" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="chapter-panel" x="125.93" y="195.55" width="1018.07" height="426.52" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="chapter-title-slot" data-pptx-placeholder="title" data-pptx-bounds="226.72 136 1010 58">
+<text id="chapter-title-carrier" data-pptx-carrier="true" x="239.52" y="174.87" font-family="黑体, Segoe UI Black, Microsoft YaHei, sans-serif" font-size="35.56" font-weight="bold" fill="#BF8E2B" xml:space="preserve">Part: <tspan font-size="32">{{CHAPTER_TITLE}}</tspan></text>
+</g>
+<g id="chapter-desc-slot" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="165.67 296.25 947.35 284.35">
+<text id="chapter-desc-carrier" data-pptx-carrier="true" x="180" y="340" font-size="32" fill="#808080">{{CHAPTER_DESC}}</text>
+</g>
+</svg>

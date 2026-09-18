@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-master="master-default" data-pptx-master-name="亦庄控股总经理办公会母版" data-pptx-layout="toc" data-pptx-layout-name="目录页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="toc-band" x="0" y="165.71" width="1280" height="388.2" fill="#BF8E2B" fill-opacity="0.29" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="toc-logo" x="148.21" y="288.79" width="182.09" height="142.05" preserveAspectRatio="none" href="../images/logo-stacked.png" data-pptx-layer="layout" data-pptx-editable="false"/>
+<line id="toc-divider" x1="468.64" y1="165.71" x2="468.64" y2="552.84" fill="none" stroke="#FFFFFF" stroke-width="5.33" data-pptx-layer="layout" data-pptx-editable="false"/>
+<text id="toc-num-1" x="577.55" y="228.71" font-family="Arial, Microsoft YaHei, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false">01</text>
+<text id="toc-num-2" x="577.55" y="322.79" font-family="Arial, Microsoft YaHei, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false">02</text>
+<text id="toc-num-3" x="577.55" y="416.87" font-family="Arial, Microsoft YaHei, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false">03</text>
+<text id="toc-num-4" x="577.55" y="510.95" font-family="Arial, Microsoft YaHei, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false">04</text>
+<g id="toc-item-1-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="657.91 202.71 542.09 52">
+<text id="toc-item-1-carrier" data-pptx-carrier="true" x="657.91" y="228.71" font-size="32" font-weight="bold" fill="#6A3F10">{{TOC_ITEM_1_TITLE}}</text>
+</g>
+<g id="toc-item-2-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="657.91 296.79 542.09 52">
+<text id="toc-item-2-carrier" data-pptx-carrier="true" x="657.91" y="322.79" font-size="32" font-weight="bold" fill="#6A3F10">{{TOC_ITEM_2_TITLE}}</text>
+</g>
+<g id="toc-item-3-slot" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="657.91 390.87 542.09 52">
+<text id="toc-item-3-carrier" data-pptx-carrier="true" x="657.91" y="416.87" font-size="32" font-weight="bold" fill="#6A3F10">{{TOC_ITEM_3_TITLE}}</text>
+</g>
+<g id="toc-item-4-slot" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="657.91 484.95 542.09 52">
+<text id="toc-item-4-carrier" data-pptx-carrier="true" x="657.91" y="510.95" font-size="32" font-weight="bold" fill="#6A3F10">{{TOC_ITEM_4_TITLE}}</text>
+</g>
+</svg>

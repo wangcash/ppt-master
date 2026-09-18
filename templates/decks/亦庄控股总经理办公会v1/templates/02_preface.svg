@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-master="master-default" data-pptx-master-name="亦庄控股总经理办公会母版" data-pptx-layout="preface" data-pptx-layout-name="前言页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="preface-chrome-rule" x="177.57" y="48.2" width="1058.88" height="9.16" fill="#6A3F10" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="preface-chrome-cap" x="1236.45" y="33.56" width="43.13" height="38.45" fill="#6A3F10" data-pptx-layer="layout" data-pptx-editable="false"/>
+<image id="preface-chrome-logo" x="40.19" y="36.61" width="129.64" height="31.48" preserveAspectRatio="none" href="../images/logo-horizontal.png" data-pptx-layer="layout" data-pptx-editable="false"/>
+<text id="preface-chrome-slogan" x="1065.95" y="42.6" font-family="方正小标宋_GBK, Microsoft YaHei, sans-serif" font-size="19.56" letter-spacing="4" fill="#632523" data-pptx-layer="layout" data-pptx-editable="false">产业新城运营商</text>
+<rect id="preface-card" x="236.8" y="198.72" width="887.03" height="352.8" fill="#FFFFFF" stroke="#A37925" stroke-width="1.33" stroke-dasharray="1.33 4" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="preface-label" x="65.45" y="249.12" width="393.12" height="252.05" fill="#BF8E2B" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="preface-title-slot" data-pptx-placeholder="title" data-pptx-bounds="65.45 249.12 393.12 252.05">
+<text id="preface-title-carrier" data-pptx-carrier="true" x="262" y="385.81" text-anchor="middle" font-family="方正小标宋_GBK, Microsoft YaHei, sans-serif" font-size="42.67" fill="#FFFFFF">{{TITLE}}</text>
+</g>
+<g id="preface-body-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="478.72 265.28 608.33 219.72">
+<text id="preface-body-carrier" data-pptx-carrier="true" x="491.52" y="295.87" font-size="28.44" fill="#A37925">{{CONTENT_AREA}}</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="微软雅黑, sans-serif" data-pptx-master="master-default" data-pptx-master-name="党委会汇报母版" data-pptx-layout="content_update" data-pptx-layout-name="内容更新页">
+<rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<rect id="update-title-bar" x="56.43" y="68.73" width="235.2" height="38.67" fill="#C00000" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="update-panel" x="30" y="257.53" width="1208" height="404.93" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="update-box-before" x="89.53" y="269.67" width="509.73" height="343.73" fill="none" stroke="#C00000" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+<rect id="update-box-after" x="621.8" y="269.67" width="594.07" height="343.73" fill="none" stroke="#C00000" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+<text id="update-label-before" x="99.51" y="292.72" font-size="16" fill="#000000" font-weight="bold" data-pptx-layer="layout" data-pptx-editable="false">修订前内容：</text>
+<text id="update-label-after" x="631.78" y="292.72" font-size="16" fill="#000000" font-weight="bold" data-pptx-layer="layout" data-pptx-editable="false">修订后内容：</text>
+<image id="update-logo" x="1137.8" y="656.86" width="97.23" height="23.61" href="../images/image2.png" preserveAspectRatio="none" data-pptx-layer="layout" data-pptx-editable="false"/>
+<g id="update-title-slot" data-pptx-placeholder="title" data-pptx-bounds="56.43 68.73 235.2 38.67">
+  <text id="update-title-carrier" data-pptx-carrier="true" x="66.03" y="94.07" text-anchor="start" font-size="24" fill="#FFFFFF" font-weight="bold" letter-spacing="4">{{PAGE_TITLE}}</text>
+</g>
+<g id="update-subtitle-slot" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="80.33 143.53 1087.27 45.93">
+  <text id="update-subtitle-carrier" data-pptx-carrier="true" x="89.93" y="165.33" text-anchor="start" font-size="20" fill="#595959" font-weight="bold">{{SUBTITLE}}</text>
+</g>
+<g id="update-before-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="99.51 300 480 295">
+  <text id="update-before-carrier" data-pptx-carrier="true" x="99.51" y="331.12" text-anchor="start" font-size="16" fill="#000000">{{BEFORE_BODY}}</text>
+</g>
+<g id="update-after-slot" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="631.78 300 570 295">
+  <text id="update-after-carrier" data-pptx-carrier="true" x="631.78" y="331.12" text-anchor="start" font-size="16" fill="#000000">{{AFTER_BODY}}</text>
+</g>
+</svg>

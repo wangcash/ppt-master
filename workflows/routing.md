@@ -49,7 +49,7 @@ Route selection authority for PPT Master. Select exactly one top-level route, th
 | Explicit current brand/style/layout/deck workspace root outside Image to PPTX | Default preserves the exact path as a Stage-1 candidate; Quick validates and installs it directly without Steps 3–4 or Confirm UI. Classify as `library` only when the normalized root exactly matches a registered index entry, otherwise `explicit`. Consume the workspace root, never only its inner `templates/` |
 | Split-mode project resumes in a fresh chat | Run [`resume-execute`](./stages/resume-execute.md) inside the active Generate route |
 | 用户点击「生成 PPT 文件」/ 明确发送“生成 PPT 文件 / 导出 PPTX”，且项目已完成 SVG 预览 | Run [`resume-export`](./stages/resume-export.md) inside the active Generate route；只执行 Step 7，不重新规划、不重新生成或修改 SVG |
-| 用户明确指定修改某一页（“修改第 5 页 / 把图加到第 3 页 / 只改第 2 页…”），且项目已有 `svg_output/` | Run [`edit-single-page`](./stages/edit-single-page.md) inside the active Generate route；只修改目标页 SVG + 单页质检，其他页不动，停在预览确认门 |
+| 用户明确指定修改某一页（“修改第 5 页 / 把图加到第 3 页 / 只改第 2 页…”），且项目已有 `svg_output/` | Run [`edit-single-page`](./stages/edit-single-page.md) inside the active Generate route；只读该文件，只修改目标页 SVG + 单页质检，其他页不动，停在预览确认门。不要读 `generate-pptx.md` / `quick-generate.md` 全文 |
 | 用户在预览后提出范围模糊的修改意见 | 先按上述单页规则定位目标页并执行；无法定位到具体页时，询问用户确认目标页，不进入全量重新生成 |
 | Generated project needs a deck-wide `colors.*` or universal `typography.font_family` substitution | Stay in Generate; load [`update_spec.py`](../scripts/docs/update_spec.md), honor its supported-key boundary, then rerun the final quality gate and Step 7 export |
 | User explicitly requests spec refinement | Run [`refine-spec`](./stages/refine-spec.md) after Design Spec Gate 1 and before lock Gate 2 |
